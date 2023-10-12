@@ -1,0 +1,16 @@
+/Users/maryatar/Downloads/digger.csproj/bin/Debug/Images/Digger.png
+/Users/maryatar/Downloads/digger.csproj/bin/Debug/Images/Gold.png
+/Users/maryatar/Downloads/digger.csproj/bin/Debug/Images/Monster.png
+/Users/maryatar/Downloads/digger.csproj/bin/Debug/Images/Sack.png
+/Users/maryatar/Downloads/digger.csproj/bin/Debug/Images/Terrain.png
+/Users/maryatar/Downloads/digger.csproj/bin/Debug/11-digger.exe.config
+/Users/maryatar/Downloads/digger.csproj/bin/Debug/11-digger.exe
+/Users/maryatar/Downloads/digger.csproj/bin/Debug/11-digger.pdb
+/Users/maryatar/Downloads/digger.csproj/bin/Debug/nunit.framework.dll
+/Users/maryatar/Downloads/digger.csproj/obj/Debug/Digger.csproj.AssemblyReference.cache
+/Users/maryatar/Downloads/digger.csproj/obj/Debug/Digger.Properties.Resources.resources
+/Users/maryatar/Downloads/digger.csproj/obj/Debug/Digger.csproj.GenerateResource.cache
+/Users/maryatar/Downloads/digger.csproj/obj/Debug/Digger.csproj.CoreCompileInputs.cache
+/Users/maryatar/Downloads/digger.csproj/obj/Debug/Digger.csproj.CopyComplete
+/Users/maryatar/Downloads/digger.csproj/obj/Debug/11-digger.exe
+/Users/maryatar/Downloads/digger.csproj/obj/Debug/11-digger.pdb
